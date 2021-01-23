@@ -1,0 +1,13 @@
+# Syntax Coloring Map For ArduinoPeripheral
+
+ArduinoPeripheral	KEYWORD1
+
+ArduinoExtraFunctions	LITERAL1
+ArduinoSerial0	LITERAL1
+ArduinoSerial1	LITERAL1
+ArduinoSerial2	LITERAL1
+ArduinoSerial3	LITERAL1
+ArduinoTimer4	LITERAL1
+ArduinoTimer5	LITERAL1
+ArduinoADC	LITERAL1
+
