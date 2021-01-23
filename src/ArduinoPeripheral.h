@@ -12,7 +12,7 @@
 #define Arduino_Timer4
 #define Arduino_Timer5
 #define Arduino_ADC
-#define Arduino_SoftwareFunctions // beta version. HAS CONSIDERABLE ERROR
+//#define Arduino_SoftwareFunctions // beta version. HAS CONSIDERABLE ERROR
 
 #if defined(__AVR_ATmega2560__)
 #include "Arduino.h"
